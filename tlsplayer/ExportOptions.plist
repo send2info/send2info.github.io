@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://send2.kr/tlsplayer/tlsplayer.ipa</string>
+		<string>https://send2info.github.io/tlsplayer/tlsplayer.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://send2.kr/tlsplayer/image57x57.png</string>
+		<string>https://send2info.github.io/tlsplayer/image57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://send2.kr/tlsplayer/image512x512.png</string>
+		<string>https://send2info.github.io/tlsplayer/image512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>development</string>
